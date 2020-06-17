@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindSets", "FindSets\FindSets.csproj", "{F43ABAE4-558B-4610-A221-9A25D2EDCCBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindSets.Tests", "FindSets.Tests\FindSets.Tests.csproj", "{000EF586-E64F-4D49-9002-1B96622BC35F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F43ABAE4-558B-4610-A221-9A25D2EDCCBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F43ABAE4-558B-4610-A221-9A25D2EDCCBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F43ABAE4-558B-4610-A221-9A25D2EDCCBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F43ABAE4-558B-4610-A221-9A25D2EDCCBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{000EF586-E64F-4D49-9002-1B96622BC35F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{000EF586-E64F-4D49-9002-1B96622BC35F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{000EF586-E64F-4D49-9002-1B96622BC35F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{000EF586-E64F-4D49-9002-1B96622BC35F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F503F080-6698-45B7-A84C-E69F71A88D5E}
+	EndGlobalSection
+EndGlobal
